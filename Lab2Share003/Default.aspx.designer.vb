@@ -12,4 +12,13 @@ Option Explicit On
 
 
 Partial Public Class _Default
+    
+    '''<summary>
+    '''pagemarkup control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents pagemarkup As Global.System.Web.UI.WebControls.Literal
 End Class

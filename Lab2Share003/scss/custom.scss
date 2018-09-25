@@ -1,0 +1,19 @@
+﻿
+$blue: #9cd5fe;
+$green: #9efef5;
+$navbar-dark-color: $blue;
+$jumbotron-bg: lighten($blue,15);
+$navbar-dark-active-color: $white;
+$navbar-dark-hover-color: darken($blue,30);
+$navbar-dark-disabled-color: darken($blue,50);
+
+$link-color:#ff6a00;
+$link-hover-color: #ffd800;
+
+
+dropshadow {
+    color: #000;
+    text-shadow: 2px 2px 4px #fff;
+}
+    
+    @import "../bootstrap/scss/bootstrap";
